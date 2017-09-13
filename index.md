@@ -15,3 +15,7 @@ As you might know we read a lot of texts, including journal papers and textbooks
 ### Quota Request
 
 - I have many textbooks consist of 800-1000 pages. Also I read 9-10 books related to my field. So **5,000 pages/month** would be sufficient. 
+
+
+### Necessary Link
+http://ocrsdk.com/
